@@ -1,0 +1,14 @@
+{
+  "name": "js-primeirospassos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "typenumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Brito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
